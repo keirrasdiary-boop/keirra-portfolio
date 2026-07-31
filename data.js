@@ -79,7 +79,7 @@ const PROJECTS = [
       {label:'Mascot Voting Form', url:'https://docs.google.com/forms/d/e/1FAIpQLScRQ1ZISNMEDZObL3jxT29tAL5BxVzQ_dhjm6nq5YmDJ8kKRg/viewform'},
       {label:'Percy Content Video', url:'https://drive.google.com/file/d/1xf0ueLgapCGhYWnMo7yJ_ik98vj9dmLO/view'},
       {label:'Percy Reveal Video', url:'https://drive.google.com/file/d/1CLWZL8Hy6wZWG61Xv1uM8ogCv8ZmO-fb/view'},
-      {label:'Percy Siblings Video', url:'https://drive.google.com/file/d/1ahPbI0bmsIWNo_0_b3zpNt2ku3cXVMVp/view'}
+      {label:'Percy Siblings Video', url:'https://drive.google.com/file/d/1ahPbI0bmsIWNo_0_x3zpNt2ku3cXVMVp/view'}
     ]
   },
   {
@@ -276,7 +276,7 @@ const PROJECTS = [
     s4:'Determines methods & procedures others can use',
     why:'Independently identifying a systemic gap, building a working technology solution, and earning director-level validation without being asked is the exact ownership mindset required at Senior level.',
     links:[
-      {label:'Live Platform', url:'https://tribalknowledgehub.netlify.app/'},
+      {label:'Tribal Knowledge Website', url:'https://tribalknowledgehub.netlify.app/'},
       {label:'Demo Walkthrough', url:'https://drive.google.com/file/d/1U6fGXHRpBB0YRvG-zLItFyr6mBsoVh7h/view'}
     ]
   },
@@ -292,6 +292,7 @@ const PROJECTS = [
     s4:'Consistent visibility across leadership levels',
     why:'Consistent, cross-channel recognition from multiple leaders at different levels — including a supervisor, manager, director-level partner, and two separate formal award committees — demonstrates the sustained performance standard that defines Senior-level impact.',
     links:[
+      {label:'Q2 Specialist of the Quarter — DeMarcus Crews', url:'https://instacart-cx.slack.com/archives/C05QAAM205U/p1780420464933429'},
       {label:'Shirlene Watson — Feb 5', url:'https://instacart.enterprise.slack.com/archives/C05QAAM205U/p1770327504367509'},
       {label:'Problem Solver Award — Feb 12', url:'https://instacart.enterprise.slack.com/archives/C05QAAM205U/p1770919077141979'},
       {label:'Wall of Fame — Feb 19', url:'https://instacart.enterprise.slack.com/archives/C05QAAM205U/p1771531537439719'},
@@ -305,16 +306,16 @@ const PROJECTS = [
   {
     id:'associates-degree', tab:'18_Associates_Degree', cat:'growth',
     icon:'Associates_Degree.png',
-    date:'July 22, 2026', status:'complete',
+    date:'July 2026', status:'complete',
     title:'A.A.S. in Computer Technologies — Excelsior University',
-    situation:'Keirra pursued and completed a full Associate in Applied Science in Computer Technologies while working full-time as a Retail Email Specialist II — hitting KPIs every month, running the Engagement Committee, building FreshClip, constructing the Tribal Knowledge Hub, co-building the Wegmans Gumloop Agent, and serving as SME resource across the team.',
-    action:'Enrolled at Excelsior University using Instacart\'s Professional Development budget and completed all coursework with a 3.92 Excelsior GPA. Coursework included Technology and Society, Technical Writing, Fundamentals of Programming, Cloud Computing and Virtualization, Overview of Computer Security, Business Data Communications, Hardware and Software Essentials, and the Integrated Technology Assessment — a capstone course on building a professional technology portfolio. Every course was applied directly to real work product in real time.',
-    result:'Graduated July 22, 2026 with an Associate in Applied Science in Computer Technologies — a 3.92 Excelsior GPA — without requesting reduced workload, missing a KPI, or asking for extra time. The technical foundation from this program is the operating system behind FreshClip, the Tribal Knowledge Hub, and every AI-powered tool built for the team.',
+    situation:'I pursued and completed a full Associate in Applied Science in Computer Technologies while working full-time as a Retail Email Specialist II, hitting KPIs every month, running the Engagement Committee, building FreshClip, constructing the Tribal Knowledge Hub, co-building the Wegmans Gumloop Agent, and serving as SME resource across the team. I did not slow down, ask for reduced workload, or miss a single performance target during this time.',
+    action:'I enrolled at Excelsior University using Instacart\'s Professional Development budget and completed all coursework with a 3.92 Excelsior GPA. My coursework included Technology and Society, Technical Writing, Fundamentals of Programming, Cloud Computing and Virtualization, Overview of Computer Security, Business Data Communications, Hardware and Software Essentials, and the Integrated Technology Assessment, a capstone course on building a professional technology portfolio. I applied every course directly to real work product in real time. The technical knowledge I gained is the foundation behind every tool I built for this team.',
+    result:'I graduated in July 2026 with an Associate in Applied Science in Computer Technologies with honors and a 3.92 Excelsior GPA. My degree is not a footnote. It is the operating system behind FreshClip, the Tribal Knowledge Hub, the Wegmans Gumloop Agent, and every AI-powered solution I have built and delivered while simultaneously meeting every performance standard expected of me.',
     s3:'Applies specialized skills & company knowledge to team goals',
     s4:'Sustained self-directed drive at S4 output level',
-    why:'Earning a technical degree while performing at S4 level across every other dimension of this portfolio is not a footnote. It is the operating system behind everything else — and it demonstrates the sustained, self-directed drive the S4 level description calls out explicitly.',
+    why:'Earning a technical degree with honors while performing at S4 level across every other dimension of this portfolio demonstrates the kind of sustained, self-directed drive that the Senior level description calls out explicitly. I did not separate my education from my work. I made them the same thing.',
     links:[
-      {label:'Excelsior University — Computer Technologies Program', url:'https://excelsior.edu/programs/associate-in-applied-science-in-computer-technologies/'}
+      {label:'View My Academic Transcript', url:'https://drive.google.com/file/d/1BFpx_joRwaKdaJ4nXKkPkIR5SY0zjYFC/view?usp=sharing'}
     ]
   }
 ];
@@ -416,7 +417,8 @@ const EVIDENCE = {
     {file:'evidence/02_Engagement_Committee/02_Engagement_Committee_14.jpg',label:'Think Tank Tuesday Post 12'},
     {file:'evidence/02_Engagement_Committee/02_Engagement_Committee_15.jpg',label:'Presentation Title Slide 1'},
     {file:'evidence/02_Engagement_Committee/02_Engagement_Committee_16.jpg',label:'Presentation Title Slide 2'},
-    {file:'evidence/02_Engagement_Committee/02_Engagement_Committee_17.jpg',label:'Presentation Title Slide 3'}
+    {file:'evidence/02_Engagement_Committee/02_Engagement_Committee_17.jpg',label:'Presentation Title Slide 3'},
+    {file:'evidence/02_Engagement_Committee/02_Engagement_Committee_18.jpg',label:'July Huddle Presentation Slide'}
   ],
   '03_Percy_the_Pickle':[
     {file:'evidence/03_Percy_the_Pickle/03_Percy_the_Pickle_01.jpg',label:'Slack Message 1'},
@@ -548,6 +550,7 @@ const EVIDENCE = {
     {file:'evidence/17_Praise_Recognition/17_Praise_Recognition_11.jpg',label:'Q2 Specialist of the Quarter — DeMarcus Crews'}
   ],
   '18_Associates_Degree':[
-    {file:'evidence/18_Associates_Degree/18_Associates_Degree_01.jpg',label:'Graduation — Excelsior University, July 2026'}
+    {file:'evidence/18_Associates_Degree/18_Associates_Degree_01.jpg',label:'Graduation — Excelsior University, July 2026'},
+    {file:'evidence/18_Associates_Degree/18_Associates_Degree_02.jpg',label:'Congratulations Graduates — Excelsior University'}
   ]
 };
