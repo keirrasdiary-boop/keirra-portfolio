@@ -30,7 +30,8 @@ const SONGS = [
   {id:'s8', file:'music/BV-tellme.mp3',                        name:'Tell Me — Bobby Valentino'},
   {id:'s9', file:'music/on-the-hotline.mp3',                   name:'On the Hotline — Pretty Ricky'},
   {id:'s10',file:'music/Nelly - hot in Here.mp3',              name:'Hot in Herre — Nelly'},
-  {id:'s11',file:'music/Brand-wannabedown.mp3',                name:'I Wanna Be Down — Brandy'}
+  {id:'s11',file:'music/Brand-wannabedown.mp3',                name:'I Wanna Be Down — Brandy'},
+  {id:'s12',file:'music/MJ-dntstptilyougetengh.mp3',           name:"Don't Stop 'Til You Get Enough — Michael Jackson"}
 ];
 
 const PROJECTS = [
@@ -285,8 +286,8 @@ const PROJECTS = [
     date:'February — June 2026', status:'complete',
     title:'2026 Slack Praise & Recognition Log',
     situation:'Throughout 2026, I received consistent, unsolicited public recognition from leadership, managers, and cross-functional partners spanning formal pillar awards, Wall of Fame induction, and direct leadership callouts.',
-    action:'Earned two formal Retail Pillar Specialist recognitions — "The Problem Solver" for January and "Problem Solver of the Month" for April — while receiving multiple unsolicited public callouts across #cx-superstars and #the-queue-crew for policy judgment, cross-functional communication, proactive issue identification, and team resource contributions.',
-    result:'Two formal pillar-level awards, permanent Wall of Fame recognition, and six separate leadership callouts across two Slack channels — all within a single calendar year.',
+    action:'Earned two formal Retail Pillar Specialist recognitions, "The Problem Solver" for January and "Problem Solver of the Month" for April, while receiving multiple unsolicited public callouts across #cx-superstars and #the-queue-crew for policy judgment, cross-functional communication, proactive issue identification, and team resource contributions. On July 9, 2026, was named Q2 2026 Specialist of the Quarter by manager DeMarcus Crews in a team-wide announcement, recognized for identifying gaps and building solutions that made the whole team better, specifically calling out the Tribal Knowledge Hub, the backup payment resource, and the LOA reacclimation support for Cynthia.',
+    result:'Two formal pillar-level awards, permanent Wall of Fame recognition, six separate leadership callouts across two Slack channels, and the Q2 2026 Specialist of the Quarter award from manager DeMarcus Crews, all within a single calendar year. DeMarcus wrote: "Keirra doesn\'t just fix problems for themselves. They build for the team."',
     s3:'Sustained performance standard & peer trust',
     s4:'Consistent visibility across leadership levels',
     why:'Consistent, cross-channel recognition from multiple leaders at different levels — including a supervisor, manager, director-level partner, and two separate formal award committees — demonstrates the sustained performance standard that defines Senior-level impact.',
@@ -338,6 +339,7 @@ const TIMELINE = [
   {date:'Jun 2026',     project:'Live Unbatchables Proposal',              cat:'Impact',      catColor:'#FF6B2B', s3:'Continuous improvement mindset',           s4:'Recommends structural process changes'},
   {date:'Jun 2026',     project:'Steering Committee',                      cat:'Growth',      catColor:'#4AC4AF', s3:'Systems-level thinking',                   s4:'Applies skills to support team goals'},
   {date:'Jun 2, 2026',  project:'Problem Solver of the Month',             cat:'Recognition', catColor:'#F59E0B', s3:'Sustained performance standard',           s4:'Consistent visibility across leadership levels'},
+  {date:'Jul 9, 2026',  project:'Q2 Specialist of the Quarter',            cat:'Recognition', catColor:'#F59E0B', s3:'Sustained performance standard',           s4:'Builds solutions that elevate the entire team'},
   {date:'Jul 22, 2026', project:'A.A.S. Computer Technologies — Graduated',cat:'Growth',     catColor:'#4AC4AF', s3:'Applies specialized skills to team goals', s4:'Sustained self-directed drive at S4 level'}
 ];
 
@@ -542,7 +544,8 @@ const EVIDENCE = {
     {file:'evidence/17_Praise_Recognition/17_Praise_Recognition_07.jpg',label:'#cx-superstars 7'},
     {file:'evidence/17_Praise_Recognition/17_Praise_Recognition_08.jpg',label:'#the-queue-crew 1'},
     {file:'evidence/17_Praise_Recognition/17_Praise_Recognition_09.jpg',label:'#the-queue-crew 2'},
-    {file:'evidence/17_Praise_Recognition/17_Praise_Recognition_10.jpg',label:'CX Recognition Wall of Fame'}
+    {file:'evidence/17_Praise_Recognition/17_Praise_Recognition_10.jpg',label:'CX Recognition Wall of Fame'},
+    {file:'evidence/17_Praise_Recognition/17_Praise_Recognition_11.jpg',label:'Q2 Specialist of the Quarter — DeMarcus Crews'}
   ],
   '18_Associates_Degree':[
     {file:'evidence/18_Associates_Degree/18_Associates_Degree_01.jpg',label:'Graduation — Excelsior University, July 2026'}
